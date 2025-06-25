@@ -1,4 +1,3 @@
-<!-- GIF с котиком -->
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
 </p>
@@ -9,9 +8,9 @@
 
 ### ✉️ Контакты
 
-[![Telegram Badge](https://img.shields.io/badge/-@avvpolina-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avvpolina)
-[![Email Badge](https://img.shields.io/badge/-averyanovapolina@outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:averyanovapolina@outlook.com)
-[![Phone Badge](https://img.shields.io/badge/-+7%20965%20044%208435-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79650448435)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avvpolina)
+[![Email Badge](https://img.shields.io/badge/-Почта-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:averyanovapolina@outlook.com)
+[![Phone Badge](https://img.shields.io/badge/-Телефон-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79650448435)
 
 ---
 
