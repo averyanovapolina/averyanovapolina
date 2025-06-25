@@ -10,7 +10,6 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avvpolina)
 [![Email Badge](https://img.shields.io/badge/-Почта-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:averyanovapolina@outlook.com)
-[![Phone Badge](https://img.shields.io/badge/-Телефон-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79650448435)
 
 ---
 
